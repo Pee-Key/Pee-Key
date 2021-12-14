@@ -4,14 +4,14 @@ I am eager to learn new things and cooperate with other people.
 
 👀 I’m interested in:
 
-Python
-Clean Code
-Network security
+- Python
+- Clean Code
+- Network security
 
 🌱 I’m currently learning:
 
-Python
-Networking
-Security
+- Python
+- Networking
+- Security
 
 📫 If you would like to contact me feel free to send me an e-mail: pawel.kpcz@gmail.com
