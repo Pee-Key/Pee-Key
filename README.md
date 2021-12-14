@@ -1,5 +1,6 @@
 👋 Hi, I'm Pawel.
 I come from Ukraine and currently I am studying Cybersecurity at Wroclaw University of Science & Technology.
+
 I am eager to learn new things and cooperate with other people.
 
 👀 I’m interested in:
@@ -7,6 +8,7 @@ I am eager to learn new things and cooperate with other people.
 - Python
 - Clean Code
 - Network security
+- CGI
 
 🌱 I’m currently learning:
 
