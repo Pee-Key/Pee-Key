@@ -14,4 +14,4 @@ Python
 Networking
 Security
 
-📫 If you would like to contact me feel free to send me an e-mail: wojtek.matusiak5@gmail.com
+📫 If you would like to contact me feel free to send me an e-mail: pawel.kpcz@gmail.com
