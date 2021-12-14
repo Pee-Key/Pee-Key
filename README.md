@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hi, I'm Pawel.
+I come from Ukraine and currently I am studying Cybersecurity at Wroclaw University of Science & Technology.
+I am eager to learn new things and cooperate with other people.
 
-<!--
-**Pee-Key/Pee-Key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in:
 
-Here are some ideas to get you started:
+Python
+Clean Code
+Network security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+
+Python
+Networking
+Security
+
+📫 If you would like to contact me feel free to send me an e-mail: wojtek.matusiak5@gmail.com
